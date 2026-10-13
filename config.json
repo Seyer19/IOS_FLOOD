@@ -1,0 +1,24 @@
+{
+  "devices": [
+    {
+      "name": "AirPods",
+      "uuid": "E0B9A5D8-F67C-4F2E-A3B1-D4E5F6A7B8C9",
+      "type": "audio"
+    },
+    {
+      "name": "Apple Watch",
+      "uuid": "A495BB20-C5B1-4B44-B512-1370F6AE8C4D",
+      "type": "wearable"
+    },
+    {
+      "name": "AirTag",
+      "uuid": "0x004C0002",
+      "type": "tracker"
+    }
+  ],
+  "settings": {
+    "advertisement_interval_ms": 100,
+    "power_level": "max",
+    "channel": 37
+  }
+}
